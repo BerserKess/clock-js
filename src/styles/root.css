@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Roboto&display=swap');
+
+
+:root{
+    --number-font: 'Orbitron',sans-serif;
+    --text-font: 'Roboto', sans-serif;
+    --color-purple: #bd93f9;
+    --color-green: #50fa7b;
+    --bg-color1: #282a36;
+    --bg-color2: #44475a;
+}
