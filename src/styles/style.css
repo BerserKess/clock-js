@@ -18,7 +18,7 @@ body{
 
 
 .clock-display{
-    width: 320px;
+    width: 350px;
     height: 200px;
     border: 2px solid var(--color-green);
     display: flex;
